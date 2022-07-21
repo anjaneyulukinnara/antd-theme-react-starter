@@ -1,0 +1,12 @@
+{
+  "success": {
+    "refreshToken": "PuLZzLvLcAtUb5Z8WQ4PF81G82HQrCx6RYvQjllFpMw=",
+    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJQQVRJRU5UIjoyOSwiZXhwIjoxNjU0Njc2ODk2LCJBQ0NFU1MiOiJQQVRJRU5UIn0.0VU9KV9R5gv15R9SU3C8GotV2yTvnG4qRfbKn5Pg5QU",
+    "tokenType": "Bearer"
+  },
+  "error": {
+    "error": "Incorrect Username/Password",
+    "message": "Incorrect Username/Password",
+    "status": 400
+  }
+}

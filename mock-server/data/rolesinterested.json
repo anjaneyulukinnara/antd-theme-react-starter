@@ -1,0 +1,10 @@
+{
+  "success": [
+    { "id": 1, "role": "Patient Care" },
+    { "id": 2, "role": "Become a partner (Doctor)" },
+    { "id": 3, "role": "Become a partner (Clinical Space)" },
+    { "id": 4, "role": "API Partner" },
+    { "id": 5, "role": "Investment Oppurtunities" },
+    { "id": 6, "role": "Other" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "success": {
+    "message": "success"
+  },
+  "error": {
+    "errorMessage": "Patient already exists with the given E-mail Id or MobileNumber",
+    "status": "Bad Request"
+  }
+}

@@ -1,0 +1,50 @@
+@import '~antd/lib/style/themes/default.less';
+@import '~antd/dist/antd.less'; // Import Ant Design styles by less entry
+@import './themes/classic.theme.less';
+
+@input-bg: #f9fbfc;
+
+// overiride some default styles
+
+.ant-layout-header {
+  padding: 0;
+}
+.ant-layout {
+  background: @input-bg;
+}
+.ant-btn,
+.ant-btn:active,
+.ant-btn:hover,
+.ant-btn:focus {
+  background: linear-gradient(96.14deg, #3a8ef6 -10.84%, #6f3afa 196.74%);
+  border-radius: 4px;
+  color: white;
+}
+.ant-input {
+  border-radius: 4px;
+  background-color: @input-bg;
+}
+.ant-select-selection-search-input {
+  background-color: @input-bg;
+}
+
+@media (max-width: @screen-md) {
+  .hide-in-mobile {
+    display: none;
+  }
+}
+@media (max-width: @screen-md) {
+  .hide-in-ipad {
+    display: none;
+  }
+}
+@media (min-width: @screen-md-min) {
+  .hide-in-desktop {
+    display: none;
+  }
+}
+
+.container {
+  padding: 24px;
+  background-color: #f9fbfc;
+}

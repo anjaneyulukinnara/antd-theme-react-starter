@@ -1,0 +1,10 @@
+{
+  "success": {
+     "message": "Thank you, Sixteen for your interest !!. We shall contact you."
+  },
+  "error": {
+    "error": "Incorrect Username/Password",
+    "message": "Incorrect Username/Password",
+    "status": 400
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "sucess": {
+    "refreshToken": "PuLZzLvLcAtUb5Z8WQ4PF6gNZxZNcP1brLFZYSWQqCQ=",
+    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJQQVRJRU5UIjoyOSwiZXhwIjoxNjU0Njc2NTk5LCJBQ0NFU1MiOiJQQVRJRU5UIn0.sonI3fSdhTOYnPuMEyCUqW8Bckk93aaZrwW_InRrmVY",
+    "tokenType": "Bearer"
+  },
+  "error": {
+    "error": "Invalid OTP!!",
+    "message": "Invalid OTP!!",
+    "status": 400
+  }
+}
